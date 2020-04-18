@@ -1,0 +1,4 @@
+20200417
+[ -----   Inicia prueba de disponibilidad de urls internas  ----- ]
+Execution time in milliseconds: 1019 Pagina cargada con exito: [https://www.choucairtesting.com/servicio/] -  Con titulo [ Servicios – Choucair Testing  
+Execution time in milliseconds: 1009 Pagina cargada con exito: [https://www.choucairtesting.com/industries/] -  Con titulo [ Industrias – Choucair Testing  
